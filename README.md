@@ -1,1 +1,16 @@
-<!DOCTYPE html><html lang="en-US"><head><script async src="https://www.googletagmanager.com/gtag/js?id=UA-22581631-3"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","UA-22581631-3")</script><link rel="icon" href="favicon.ico"><meta name="description" content="Open-source electronic prototyping platform enabling users to create interactive electronic objects."><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1"><meta name="theme-color" content="#00979d"><meta charset="UTF-8"><title>Arduino - Home</title><link href="https://cdn.arduino.cc/homepage/app.96e81179873d88e219b6d3daf3aaae07.css" rel="stylesheet"></head><body><div id="header" class="temporary"></div><div id="root"></div><div><div id="newsletter-modal"></div><div id="footer"></div></div><script src="//cdn.arduino.cc/header-footer/loader.js" type="text/javascript"></script><script type="text/javascript">var authOptions={authURI:"//auth.arduino.cc/login",redirectURI:window.location.href,clientID:"arduinocc",scopes:["profile:core","profile:public"]};ArduinoHeaderAndFooter({auth:"default",authOptions:authOptions}).then(function(){$(".temporary").removeClass("temporary")})</script><script type="text/javascript">var arduinoAdvOptions={breakpointDesktop:1024,breakpointMobile:420,zoneIdDesktop:556,zoneIdTablet:558,zoneIdMobile:557}</script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js"></script><script type="text/javascript" src="https://content.arduino.cc/banner/banner.js"></script><script type="text/javascript" src="https://cdn.arduino.cc/homepage/static/js/vendor.f1cf4e6f.js"></script><script type="text/javascript" src="https://cdn.arduino.cc/homepage/static/js/app.8f0925cf.js"></script><script type="text/javascript" src="https://cdn.arduino.cc/homepage/static/js/polyfills.4e0c5370.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>COFRE ELETRÔNICO UTILIZANDO O ARDUINO</h1>
+
+    <p></p>
+
+    <iframe src="https://github.com/HelterSardeiro/cofre/blob/master/TRABALHO_TRANCA.PDF" width="600" height="780" style="border: none;"></iframe>
+</body>
+</html>
